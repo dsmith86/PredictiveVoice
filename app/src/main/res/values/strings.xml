@@ -6,5 +6,6 @@
 
     <string name="button_listen">Listen</string>
     <string name="button_stopListening">Stop Listening</string>
+    <string name="status_nudge">Hey, you can talk now!</string>
 
 </resources>
